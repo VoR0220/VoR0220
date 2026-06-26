@@ -11,7 +11,7 @@ I've spent 10+ years building at the protocol layer of the Ethereum ecosystem �
 ### 🚨 [Sus](https://get-sus.xyz) — Fraud Detection for Developers
 A browser extension that protects engineers from malicious recruiters and poisoned codebases on LinkedIn. Sus passively scans recruiter profiles, linked repositories, and shared code for red flags — malicious `postinstall` scripts, `curl | bash` patterns, RMM backdoor configurations, and suspicious VS Code task files. Born from a real encounter with recruiter-sent malware.
 
-> **Stack:** Vite · Typescript · Rust · Gemini 2.5 Vision * Redis * Postgres
+> **Stack:** Vite · Typescript · Rust · Gemini 2.5 Vision · Redis · Postgres
 
 ## ⚙️ Previous Projects
 
